@@ -9,7 +9,7 @@
 #include <string.h>
 #include <math.h>
 
-#define FPS 30.0
+#define FPS 15.0
 
 typedef enum {
 	OFF = 0,
